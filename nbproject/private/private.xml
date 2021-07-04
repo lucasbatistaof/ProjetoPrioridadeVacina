@@ -3,7 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/lucas/NetBeansProjects/ProjetoPrioridadeVacina/src/projetoprioridadevacina/ProjetoPrioridadeVacina.java</file>
+            <file>file:/home/lucas/NetBeansProjects/ProjetoPrioridadeVacina/src/entidades/Comorbidade.java</file>
+            <file>file:/home/lucas/NetBeansProjects/ProjetoPrioridadeVacina/src/entidades/Pessoa.java</file>
+            <file>file:/home/lucas/NetBeansProjects/ProjetoPrioridadeVacina/src/Principal/Programa.java</file>
         </group>
     </open-files>
 </project-private>
