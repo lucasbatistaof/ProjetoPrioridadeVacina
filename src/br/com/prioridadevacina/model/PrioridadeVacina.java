@@ -1,4 +1,4 @@
-package Principal;
+package br.com.prioridadevacina.model;
 
 import entidades.Comorbidade;
 import entidades.Pessoa;
@@ -6,7 +6,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 
-public class Programa {
+public class PrioridadeVacina {
 
     
     public static void main(String[] args) {
